@@ -1,6 +1,9 @@
-# eviehoward.github.io
+# Evie's Portfolio
+[eviehoward.github.io](https://eviehoward.github.io)
 
 This is my portfolio website, where I describe all of my projects and experience over the last few years.
+
+![Screenshot of homepage](images/homepagescreenshot.png)
 
 ## Structure
 ```
